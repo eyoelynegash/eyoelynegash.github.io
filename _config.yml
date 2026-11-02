@@ -13,16 +13,9 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
-bluesky: "#"
-substack: "#"
+linkedin: "eyoel-negash"
+github: "eyoelynegash"
+
 
 # Markdown
 highlighter: rouge
