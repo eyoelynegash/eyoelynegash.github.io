@@ -11,13 +11,17 @@ I am a third-year Electrical Engineering major at Georgia Tech interested in cir
 <style>
   .profile {
     float: none !important;
-    width: 50% !important;
-    margin: 0 auto 1.5rem !important;
-    text-align: center;
+    width: 100% !important;
+    display: flex !important;
+    justify-content: center !important;
+    margin: 0 0 1.5rem !important;
   }
 
   .profile img {
     display: block;
-    margin: 0 auto;
+    width: 380px !important;
+    max-width: 100%;
+    height: auto;
+    margin: 0 !important;
   }
 </style>
