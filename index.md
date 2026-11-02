@@ -19,7 +19,7 @@ I am a third-year Electrical Engineering major at Georgia Tech interested in cir
 
   .profile img {
     display: block;
-    width: 250px !important;
+    width: 200px !important;
     max-width: 100%;
     height: auto;
     margin: 0 !important;
