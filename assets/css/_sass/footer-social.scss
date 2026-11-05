@@ -67,36 +67,36 @@ body.fontawesome-loaded .rounded-social-buttons {
 }
 
 .rounded-social-buttons .social-button.linkedin {
-  background: #007bb5;
+  background: $navy;
 }
 
 .rounded-social-buttons .social-button.linkedin:hover,
 .rounded-social-buttons .social-button.linkedin:focus-visible {
-  color: #007bb5;
+  color: $navy;
   background: #fefefe;
-  border-color: #007bb5;
+  border-color: $navy;
 }
 
 .rounded-social-buttons .social-button.github {
-  background: #000000;
+  background: $navy;
 }
 
 .rounded-social-buttons .social-button.github:hover,
 .rounded-social-buttons .social-button.github:focus-visible {
-  color: #000000;
+  color: $navy;
   background: #fefefe;
-  border-color: #000000;
+  border-color: $navy;
 }
 
 .rounded-social-buttons .social-button.email {
-  background: #60c17d;
+  background: $navy;
 }
 
 .rounded-social-buttons .social-button.email:hover,
 .rounded-social-buttons .social-button.email:focus-visible {
-  color: #60c17d;
+  color: $navy;
   background: #fefefe;
-  border-color: #000000;
+  border-color: $navy;
 }
 
 .rounded-social-buttons .social-button.orcid {

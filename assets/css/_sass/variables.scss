@@ -6,17 +6,20 @@ $base-line-height: 1.7;
 
 $spacing-unit:     30px;
 $light-gray: gray;
-$text-color:       #333;
-$background-color: #fdfdfd;
-$brand-color:      #60c17d;
-$projectbox-text:  #1e2126;
+
+// Black and navy palette, used in both light and dark mode
+$black:            #000000;
+$navy:             #0f2a5f;
+$text-color:       #e6ebf5;
+$background-color: $black;
+$brand-color:      #8fb3ff; // lighter blue so links stay readable on black
+$projectbox-text:  #ffffff;
 
 // Color scheme for light
-$body-bg: #fdfdfd;
-$projectbox: #c3e1c9;
-$text-color: #333;
+$body-bg: $black;
+$projectbox: $navy;
 
 // Color scheme for dark modes
-$body-bg-dark: #23272d;
-$projectbox-dark: lighten(#98a0ac, 2%);
-$text-color-dark: #98a0ac;
+$body-bg-dark: $black;
+$projectbox-dark: $navy;
+$text-color-dark: $text-color;
