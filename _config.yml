@@ -40,6 +40,7 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
+      - guitar-preamp.md
       - shortProject.md
       - longerProjectTitle.md
       - redirect.md
