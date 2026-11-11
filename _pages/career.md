@@ -36,4 +36,9 @@ My roadmap is strong on circuits, but automation also depends on control systems
 - Build embedded projects that read sensors and drive motors, connecting my circuits knowledge to real-world control
 - Stay active in NSBE to keep learning from engineers already working in industry
 
+<figure>
+  <img src="{{ site.baseurl }}/assets/images/nsbe-convention-group.jpg" alt="Eyoel with a group of students and advisors at the NSBE Convention in front of an Advancing STEM sign">
+  <figcaption><small>Networking with students and advisors at the 2026 NSBE Convention.</small></figcaption>
+</figure>
+
 Every project on this site is a step toward that goal, and I'll keep adding to it as I go.
