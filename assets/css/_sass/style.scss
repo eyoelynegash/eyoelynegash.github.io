@@ -132,6 +132,16 @@ blockquote {
   margin-top: 0.5em;
 }
 
+/* Wrap menu items onto a second line on phones instead of hiding them */
+.navbar.scroll {
+  white-space: normal;
+  overflow-x: visible;
+}
+
+.navbar a {
+  display: inline-block;
+}
+
 /* Pagination style in index/home page */
 .pagination {
   margin: 2em 0;
