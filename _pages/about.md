@@ -9,7 +9,7 @@ published: true
 
 ## My story
 
-I didn't take a straight line into engineering, and I think that's my advantage. I started at Georgia State University's Perimeter College, where I earned my Associate of Science in Engineering while working and staying involved on campus. In Summer 2026 I transferred to Georgia Tech to finish a Bachelor of Science in Electrical Engineering.
+I started at Georgia State University's Perimeter College, where I earned my Associate of Science in Engineering while working and staying involved on campus. In Summer 2026 I transferred to Georgia Tech to finish a Bachelor of Science in Electrical Engineering.
 
 Before I designed circuits, I built them by hand. As a machinist at Roytec Industries, I assembled elevator wiring harnesses and conduits for custom industrial jobs. I worked with everything from tiny AWG 32 wire to heavy 535 MCM cable, and I learned to solder, strip, and seal to the exact standards on an engineering drawing. Every day, I saw how a small wiring decision affected the safety and reliability of a finished product. That job is what made me want to understand the "why" behind the systems I was building, and it's why manufacturing and automation are where I want my career to go.
 
@@ -60,6 +60,6 @@ Helped plan and run campus events to build student engagement.
 
 ## Outside of engineering
 
-I play guitar, which is how my preamp project started. I also have hands-on experience with automotive repair, which taught me to troubleshoot systems one step at a time.
+I play piano and guitar, which is how my preamp project started. I also have hands-on experience with automotive repair, which taught me to troubleshoot systems one step at a time.
 
 See my [projects]({{ site.baseurl }}/projects/), read my [career goals]({{ site.baseurl }}/career/), or [view my resume]({{ site.baseurl }}/resume/).
