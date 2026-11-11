@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" font-family="Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">Career roadmap</title>
+  <desc id="d">Timeline from Georgia State in 2023 through Georgia Tech, a Summer 2027 internship, senior design, graduation in December 2028, and a career in automation and manufacturing.</desc>
+  <rect width="900" height="340" rx="16" fill="#0b1630"/>
+  <line x1="60" y1="150" x2="840" y2="150" stroke="#8fb3ff" stroke-width="4"/>
+  <g fill="#0f2a5f" stroke="#8fb3ff" stroke-width="3">
+    <circle cx="70" cy="150" r="14"/><circle cx="225" cy="150" r="14"/><circle cx="380" cy="150" r="14"/>
+    <circle cx="535" cy="150" r="14"/><circle cx="690" cy="150" r="14"/>
+  </g>
+  <circle cx="830" cy="150" r="18" fill="#8fb3ff"/>
+  <g fill="#ffffff" text-anchor="middle" font-size="17" font-weight="bold">
+    <text x="70" y="110">2023–2026</text><text x="225" y="110">2026</text><text x="380" y="110">2027</text>
+    <text x="535" y="110">2027–2028</text><text x="690" y="110">Dec 2028</text><text x="830" y="110">Future</text>
+  </g>
+  <g fill="#c9d6f2" text-anchor="middle" font-size="14">
+    <text x="70" y="195">Georgia State</text><text x="70" y="215">A.S. Engineering</text>
+    <text x="225" y="195">Transfer to</text><text x="225" y="215">Georgia Tech</text>
+    <text x="380" y="195">Circuits courses</text><text x="380" y="215">+ summer internship</text>
+    <text x="535" y="195">Analog, devices,</text><text x="535" y="215">senior design</text>
+    <text x="690" y="195">B.S. Electrical</text><text x="690" y="215">Engineering</text>
+    <text x="830" y="195">Automation &amp;</text><text x="830" y="215">manufacturing</text>
+  </g>
+  <text x="450" y="290" fill="#8fb3ff" text-anchor="middle" font-size="18" font-weight="bold">From hands-on harness assembly to engineering the systems that build products</text>
+</svg>
