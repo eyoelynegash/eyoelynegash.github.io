@@ -220,3 +220,29 @@ blockquote {
 .article-list {
   margin: 1em 0;
 }
+/* Resume viewer and figures */
+.resume-viewer {
+  width: 100%;
+  height: 80vh;
+  min-height: 500px;
+  border: 1px solid $navy;
+  border-radius: 8px;
+}
+
+figure img {
+  border-radius: 8px;
+}
+
+figcaption {
+  margin-top: 0.4em;
+  color: $text-color;
+}
+
+article img {
+  display: block;
+  margin: 1em auto;
+}
+
+article h2 {
+  margin-top: 1.2em;
+}

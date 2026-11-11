@@ -4,7 +4,7 @@ title: Eyoel Negash
 
 baseurl: "" #empty for a user site at the domain root
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: "Eyoelynegash@gmail.com"
 
 # Pagination
 paginate: 4
@@ -41,6 +41,8 @@ collections:
     permalink: /projects/:name/
     order:
       - guitar-preamp.md
+      - river-temperature.md
+      - calculus-study-companion.md
 
 sass:
   sass_dir: /assets/css/_sass

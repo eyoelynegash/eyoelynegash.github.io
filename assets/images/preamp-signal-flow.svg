@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" font-family="Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">Portable guitar preamp signal flow</title>
+  <desc id="d">The guitar signal goes into a preamp stage, then through the Tonemender EQ with bass, mid, treble, mid shift and level controls, then to the output.</desc>
+  <rect width="900" height="300" rx="16" fill="#0b1630"/>
+  <defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0L10 5L0 10z" fill="#8fb3ff"/></marker></defs>
+  <g fill="#0f2a5f" stroke="#8fb3ff" stroke-width="2">
+    <rect x="30" y="95" width="150" height="80" rx="10"/>
+    <rect x="250" y="95" width="170" height="80" rx="10"/>
+    <rect x="490" y="70" width="210" height="130" rx="10"/>
+    <rect x="770" y="95" width="110" height="80" rx="10"/>
+  </g>
+  <g stroke="#8fb3ff" stroke-width="3" marker-end="url(#a)">
+    <line x1="180" y1="135" x2="246" y2="135"/><line x1="420" y1="135" x2="486" y2="135"/><line x1="700" y1="135" x2="766" y2="135"/>
+  </g>
+  <g fill="#ffffff" text-anchor="middle" font-size="20" font-weight="bold">
+    <text x="105" y="142">Guitar</text>
+    <text x="335" y="130">Preamp</text>
+    <text x="595" y="105">Tonemender EQ</text>
+    <text x="825" y="142">Output</text>
+  </g>
+  <g fill="#c9d6f2" text-anchor="middle" font-size="15">
+    <text x="335" y="155">input stage</text>
+    <text x="595" y="135">Bass · Mid · Treble</text>
+    <text x="595" y="160">Mid Shift · Level</text>
+    <text x="595" y="185">dual op-amp</text>
+  </g>
+  <text x="450" y="250" fill="#c9d6f2" text-anchor="middle" font-size="16">Prototyped on a breadboard before moving to a permanent board and enclosure</text>
+</svg>
